@@ -3,7 +3,8 @@ src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 # Welcome!
 ## I'm Rubemar! Let me present a little about myself :D
 Back-End focused in Node.js / NestJS | Software engineer :robot:
-Lover of Technology and coding 
+Lover of Technology and coding.
+I have experience in developing APIs with Node.js and NestJS, building scalable and robust solutions with a strong focus on performance, testability, and maintainability.
 
 ## About me
 
