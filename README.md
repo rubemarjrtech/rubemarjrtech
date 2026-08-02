@@ -2,9 +2,11 @@
 src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 # Welcome!
 ## I'm Rubemar! Let me present a little about myself :D
-Back-End focused in Node.js and Python with FastAPI | Software engineer :robot:
+Full Stack Developer with focus on Back-End using Node.js, React and Python with FastAPI :robot:
+Experience building web applications using Node.js, React, and Python, developing scalable and robust solutions with a strong focus on security, performance, testability, and maintainability.
+Collaborative with strong teamwork skills.
+Focused on writing efficient code that follows software development best practices and principles, such as Clean Code, SOLID, and Design Patterns.
 Lover of Technology and coding.
-I have experience in developing APIs with Node.js and FastAPI, building scalable and robust solutions with a strong focus on performance, testability, and maintainability.
 
 ## About me
 
